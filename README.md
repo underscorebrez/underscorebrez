@@ -1,6 +1,10 @@
-# 💫 About Me:
-CS Student (II year)<br>VIT Bhopal University <br>Aspiring Full Stack Developer <br>Interested in Linux systems<br>Ex Distro Hopper<br>Current Os: Pop! Os
-
+<style>
+  p{
+    color:green;
+  }
+</style>
+# 📌 About Me:
+<p>CS Student (II year)<br>VIT Bhopal University <br>Aspiring Full Stack Developer <br>Interested in Linux systems<br>Ex Distro Hopper<br>Current Os: Pop! Os</p>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@underscorebrez) 
