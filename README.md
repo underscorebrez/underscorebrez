@@ -1,4 +1,4 @@
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 <h1 align="center">Puspal Ghosal</h1>
 <h3 align="center">An Internet Explorer</h3>
 <p align="center">
