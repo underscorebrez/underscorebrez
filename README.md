@@ -25,11 +25,7 @@ Homie Sapiens<br>CS Student (<b>II</b>)<br>Music Producer<br><b>VIT Bhopal Unive
 ### ✍️ QOTD
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🦉 Bonus!
-
-<p align="center">
-<video src="https://github.com/user-attachments/assets/1caef1a1-5377-4fcb-8c37-c3afb2aa79f1" align="center" width="300px"></video>
-</p>
-
+<video src="https://github.com/user-attachments/assets/1caef1a1-5377-4fcb-8c37-c3afb2aa79f1"></video>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=underscorebrez&icon=0&color=0)](https://visitcount.itsvg.in)
