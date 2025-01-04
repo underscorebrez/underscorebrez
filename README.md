@@ -18,8 +18,3 @@ Homie Sapiens<br>CS Student (<b>II</b>)<br>Music Producer<br><b>VIT Bhopal Unive
 ![](https://github-readme-streak-stats.herokuapp.com/?user=underscorebrez&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=underscorebrez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ QOTD
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=underscorebrez&icon=0&color=0)](https://visitcount.itsvg.in)
