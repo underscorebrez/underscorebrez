@@ -4,7 +4,7 @@
 
 <p align="center">
 --- 🧬 Bio  -----<br>
-Homie Sapiens<br>CS Student (<b>II</b>)<br>Music Producer<br><b>VIT Bhopal University</b><br>Aspiring Full Stack Developer<br>Linux is 🩵<br>Current Os: Pop!_Os<br>🚩Ex Distro Hopper
+Homie Sapiens<br>CS Student (<b>II</b>)<br>Music Producer<br><b>VIT Bhopal University</b><br>Aspiring Full Stack Developer<br>Linux is 🩵<br>Current Os: Kali<br>🚩Ex Distro Hopper
 </p>
   
 # 🖥️ Knowledge :
